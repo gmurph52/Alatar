@@ -1,0 +1,8 @@
+{
+	"Source": "./",
+	"Destination": "../Alatar.App/src/app/models/generated",
+	"Files": [ "Alatar.dll" ],
+	"ControllerBaseClassNames": [ "ApiController" ],
+	"ApiRelativePath": "api",
+	"HttpModule": "HttpClientModule"
+}
